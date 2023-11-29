@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES2015",
+    "jsx": "preserve",
+    "strict": false
+  },
+  "extends": "expo/tsconfig.base"
+}
